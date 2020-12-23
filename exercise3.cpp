@@ -5,6 +5,7 @@
 
 #include <iostream>
 using namespace std;
+#include <string>
 
 int main() {
     int myNum = 9;
@@ -16,4 +17,3 @@ int main() {
          << endl << myText;
     return 0;
 }
-
